@@ -2,6 +2,8 @@
 
 This project is a full implementation of a **Binary Search Tree (BST)** in Java. It includes all fundamental operations like insertion, search, deletion, and traversal.
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+
 ---
 
 ## Project Structure
