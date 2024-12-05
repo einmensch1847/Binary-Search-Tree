@@ -8,7 +8,7 @@ This project is a full implementation of a **Binary Search Tree (BST)** in Java.
 
 ## Project Structure
 
-### 1. `Main.java`
+### 1. `Main.java` ✨🎇
 - The entry point of the program.
 - Demonstrates tree operations like:
   - Adding nodes.
@@ -17,7 +17,7 @@ This project is a full implementation of a **Binary Search Tree (BST)** in Java.
   - Calculating tree properties like depth, length, and width.
   - Removing nodes from the tree.
 
-### 2. `SearchTree.java`
+### 2. `SearchTree.java` ✨🎇
 - Implements the core logic of the binary search tree.
 - Key Methods:
   - `insert(Object item)`: Adds a node while maintaining BST properties.
@@ -28,7 +28,7 @@ This project is a full implementation of a **Binary Search Tree (BST)** in Java.
   - `GetWidth()`: Finds the maximum width of the tree.
   - `Remove(Object item)`: Deletes a node and restructures the tree.
 
-### 3. `TreeNode.java`
+### 3. `TreeNode.java` ✨🎇
 - Represents a node in the binary search tree.
 - Stores:
   - `info`: The data value of the node.
@@ -52,7 +52,7 @@ This project is a full implementation of a **Binary Search Tree (BST)** in Java.
 
 ---
 
-## How to Run
+## How to Run ⚡
 
 ### Prerequisites
 - Install **Java Development Kit (JDK)** (Version 8 or later).
